@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family:sans-serif;
+}
+body{
+   
+    justify-content: center;
+    align-items: center;
+    font-family: 'Sriracha', cursive;
+
+}
+
+header{
+    padding: 50px;
+   
+    background-color: black;
+  
+    
+    
+}
+nav i{
+    position: absolute;
+    margin: 5px 0 0 150px;
+    
+}
+
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color:  white;
+    
+}
+
+.divi{
+    text-align: center;
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+   
+}
+    
+
+section{
+    display: flex; 
+}
+
+.card{
+    border-radius: 20px;
+    margin-left: 10px;
+    height: 365px;
+    background-color: #fff;
+    flex: 1;
+    transition: .3s all ease;
+    border: black solid 2px;
+    box-shadow: 0 5px 5px;
+    text-align: center;
+    
+
+}
+.card:hover {
+    flex: 2;
+    background: rgb(207,207,207);
+}
+
+
+
+article{
+    width: 300px;
+    height: 200px;
+    margin : 30px 0 0 0;
+    border: black solid 1px;
+    border-radius: 15px;
+}
+
+
+
+
+
+img{
+    width: 70%;
+    border-radius: 15px;
+}
+
+nav{
+    text-align: right;
+   
+}
+
+
+input{
+    border-radius: 10px;
+    height: 30px;
+    border: none;
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+.lili{
+    margin: 150px 0 0 0;
+
+}
+
+footer{
+    background-color: black;
+    height: 200px;
+    margin: 50px 0 0 0;
+    color: #fff;
+    text-align: center;
+    
+    
+}
+
+button{
+    border-radius: 3px;
+    
+}
+
+
+.image{
+    width: 100%;
+}
+
+
+hr{
+    margin: 0 0 20px 0;
+}
+
+
+
+
+
+button{
+    height: 35px;
+    border-radius: 6px;
+}
+
+.abou{
+    margin: 0 700px 0 0;
+}
+p{
+    padding: 5px;
+   
+}
+.service{
+  
+    text-align: left;
+}
+
+.social{
+    text-align: center;
+    margin: 0 0 0 360px;
+
+}
+
+.contact{
+  text-align: right;
+  margin: 0 0 0 400PX;
+}
+
+.contenu{
+    display: flex;
+    padding: 30px 0 0 0;
+    
+}
+
+u{
+    text-align: center;
+}
+
+.logo{
+    width: 100px;
+    height: 90px;
+    
+}
+
+
+    
+    
+
+
+
+
+
+    
+
+
+

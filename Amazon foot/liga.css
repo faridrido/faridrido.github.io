@@ -1,0 +1,47 @@
+body{
+    background-image: url(images.png);
+    font-family:sans-serif;
+}
+section{
+    display: flex; 
+}
+
+.card{
+    border-radius: 20px;
+    margin-left: 10px;
+    height: 365px;
+    background-color: #fff;
+    flex: 1;
+    transition: .3s all ease;
+    border: black solid 2px;
+    box-shadow: 0 5px 5px;
+    text-align: center;
+    
+
+}
+.card:hover {
+    flex: 2;
+    background: rgb(207,207,207);
+}
+
+
+article{
+    width: 300px;
+    height: 200px;
+    margin : 30px 0 0 0;
+    border: black solid 1px;
+    border-radius: 15px;
+}
+button{
+    height: 35px;
+    border-radius: 6px;
+}
+
+
+
+
+
+img{
+    width: 70%;
+    border-radius: 15px;
+}

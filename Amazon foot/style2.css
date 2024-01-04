@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url(B9730704417Z.1_20220429131047_000+GD3KC7LLP.2-0.jpg);
+    font-family:sans-serif;
+
+}
+H1{
+    text-align: center;
+    color: white;
+}
+
+
+button{
+    margin: 20px;
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
